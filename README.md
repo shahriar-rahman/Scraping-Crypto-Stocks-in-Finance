@@ -8,4 +8,7 @@ The primary incentive is to crawl and scrape the Yahoo Finance page to extract v
 
 ## Data Visualization
 The data gathered can be used for various feature analysis as well as engineering for future utilization of ML and DL models.
+
 ![alt text](https://github.com/shahriar-rahman/Scraping-Crypto-Stocks-in-Finance/blob/main/CryptoStock2/Graphs/market_values.png)
+
+![alt text](https://github.com/shahriar-rahman/Scraping-Crypto-Stocks-in-Finance/blob/main/CryptoStock2/Graphs/price_fluctuations.png)
