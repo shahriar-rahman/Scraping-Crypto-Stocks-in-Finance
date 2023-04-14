@@ -6,6 +6,19 @@ The primary incentive is to crawl and scrape the Yahoo Finance page to extract v
 
 ![alt text]()
 
+## Methods:
+• Scrapy-based
+
+• .css and xpath Selectors 
+
+• Pagination 
+
+• DataFrame Manipulation using Pandas
+
+• Data Storage
+
+• Data Analysis
+
 ## Data Visualization
 The data gathered can be used for various feature analysis as well as engineering for future utilization of ML and DL models.
 ![alt text]()
