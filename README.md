@@ -1,4 +1,4 @@
-# Scraping-Crypto-Stocks-Finance
+# Scraping Crypto Stocks in Finance
 Web Scraping real-time Crypto Stock Markets in Yahoo Finance using Scrapy
 
 ## Introduction
